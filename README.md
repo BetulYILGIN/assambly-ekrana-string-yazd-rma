@@ -1,1 +1,1 @@
-# assambly-ekrana-string-yazd-rma
+# assambly-ekrana-string-yazdirma
